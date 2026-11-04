@@ -1,0 +1,10 @@
+Debug/
+*.o
+*.mk
+*.project
+*.txt
+.clangd/
+.clang-format
+BrBrBr
+BrBrGr
+BrBrBeta
